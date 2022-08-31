@@ -2,9 +2,9 @@ import { Routes, Route, NavLink } from 'react-router-dom';
 import { NotFound } from './NotFound';
 import s from './App.module.css';
 
-import Home from '../pages/Home/Home';
-import Movies from '../pages/Movies/Movies';
-import MovieDetails from '../pages/MovieDetails/MovieDetails';
+import Home from 'pages/Home/Home';
+import Movies from 'pages/Movies/Movies';
+import MovieDetails from 'pages/MovieDetails/MovieDetails';
 
 // const LazyHome = lazy(() => import('../pages/Home/Home'));
 // const LazyMovies = lazy(() => import('../pages/Movies/Movies'));

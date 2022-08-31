@@ -8,7 +8,7 @@ import './index.css';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <BrowserRouter basename="copyhw05">
+    <BrowserRouter basename="/CopyHW05/">
       <App />
     </BrowserRouter>
   </React.StrictMode>
